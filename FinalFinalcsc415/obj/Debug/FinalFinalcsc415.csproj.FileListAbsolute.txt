@@ -1,0 +1,14 @@
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\bin\Debug\FinalFinalcsc415.exe.config
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\bin\Debug\FinalFinalcsc415.exe
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\bin\Debug\FinalFinalcsc415.pdb
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\obj\Debug\FinalFinalcsc415.csprojAssemblyReference.cache
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\obj\Debug\FinalFinalcsc415.Properties.Resources.resources
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\obj\Debug\FinalFinalcsc415.csproj.GenerateResource.cache
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\obj\Debug\FinalFinalcsc415.exe
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\obj\Debug\FinalFinalcsc415.pdb
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\bin\Debug\MLModel.zip
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\bin\Debug\FinalFinalcsc415ML.Model.dll
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\bin\Debug\FinalFinalcsc415ML.Model.pdb
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\obj\Debug\FinalFinalcsc415.Form1.resources
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\obj\Debug\FinalFinalcsc415.csproj.CopyComplete
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415\obj\Debug\FinalFinalcsc415.csproj.CoreCompileInputs.cache

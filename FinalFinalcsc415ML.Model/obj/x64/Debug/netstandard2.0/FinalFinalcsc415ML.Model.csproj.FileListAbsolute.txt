@@ -1,0 +1,10 @@
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\bin\x64\Debug\netstandard2.0\MLModel.zip
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\bin\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.deps.json
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\bin\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.dll
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\bin\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.pdb
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\obj\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.csprojAssemblyReference.cache
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\obj\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\obj\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.AssemblyInfoInputs.cache
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\obj\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.AssemblyInfo.cs
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\obj\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.dll
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.Model\obj\x64\Debug\netstandard2.0\FinalFinalcsc415ML.Model.pdb

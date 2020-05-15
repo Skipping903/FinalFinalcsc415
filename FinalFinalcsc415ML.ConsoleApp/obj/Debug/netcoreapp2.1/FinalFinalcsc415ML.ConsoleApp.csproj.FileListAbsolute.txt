@@ -1,0 +1,16 @@
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\bin\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.deps.json
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\bin\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.runtimeconfig.json
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\bin\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\bin\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.dll
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\bin\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.pdb
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\bin\Debug\netcoreapp2.1\FinalFinalcsc415ML.Model.dll
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\bin\Debug\netcoreapp2.1\FinalFinalcsc415ML.Model.pdb
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\obj\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\obj\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\obj\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\obj\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.AssemblyInfo.cs
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\obj\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.csproj.CopyComplete
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\obj\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.dll
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\obj\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.pdb
+C:\Users\Luke Albiero\source\repos\FinalFinalcsc415\FinalFinalcsc415ML.ConsoleApp\obj\Debug\netcoreapp2.1\FinalFinalcsc415ML.ConsoleApp.genruntimeconfig.cache
