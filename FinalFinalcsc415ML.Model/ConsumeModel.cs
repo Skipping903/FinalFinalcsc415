@@ -22,7 +22,7 @@ namespace FinalFinalcsc415ML.Model
             ITransformer mlModel = mlContext.Model.Load(modelPath, out var modelInputSchema);
             var predEngine = mlContext.Model.CreatePredictionEngine<ModelInput, ModelOutput>(mlModel);
 
-            // Hardcoded example due to lack of time
+            // Hardcoded example
             input.Quote = "When you finish your Ai homework but Litman wants you to translate the preamble into binary";
 
             ModelOutput result = predEngine.Predict(input);
